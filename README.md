@@ -6,6 +6,6 @@
 
 ## APK相关
 
-* [APK打包](#语言无关类)
+* [APK打包](./apk/README.md)
   * [官方打包流程图](./apk/README.md#官方打包流程图)
   * [详细打包流程图](./apk/README.md#详细打包流程图)
