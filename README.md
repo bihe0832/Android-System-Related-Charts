@@ -15,9 +15,9 @@
 * [系统框架](./framework/README.md)
   * [官方系统框架图](./framework/README.md#官方系统框架图)
 
-## [应用相关](./application/README.md)
+## [应用相关](./application-framework/README.md)
 
-* [四大组件](./application/README.md)
-  * [Activity的声明周期](./application/README.md#Activity的声明周期)  
-* [UI相关](./framework/README.md)
-  * [View中widgets相关类的继承关系](./application/README.md#View中widgets相关类的继承关系)  
+* [四大组件](./application-framework/README.md)
+  * [Activity的声明周期](./application-framework/README.md#Activity的声明周期)  
+* [UI相关](./application-framework/README.md)
+  * [View中widgets相关类的继承关系](./application-framework/README.md#View中widgets相关类的继承关系)  
