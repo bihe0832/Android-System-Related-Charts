@@ -18,6 +18,6 @@
 ## [应用相关](./application/README.md)
 
 * [四大组件](./application/README.md)
-  * [Activity的声明周期](./application/README.md#Activity的声明周期1)  
+  * [Activity的声明周期](./application/README.md#Activity的声明周期)  
 * [UI相关](./framework/README.md)
   * [View相关类的继承关系](./application/README.md#View相关类的继承关系)  
