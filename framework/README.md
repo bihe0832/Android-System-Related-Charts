@@ -16,10 +16,10 @@
 
 ## 运行机制
 
-### handle机制时序图
+### handler机制时序图
 
-![handle机制时序图](./handle-sequence.jpg)
+![handler机制时序图](./handler-sequence.jpg)
 
-### handle机制UML类图
+### handler机制UML类图
 
-![handle机制UML类图](./handle-uml.png)
+![handler机制UML类图](./handler-uml.png)

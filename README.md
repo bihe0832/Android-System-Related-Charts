@@ -19,8 +19,8 @@
 * [系统框架](./framework/README.md#系统框架)
   * [官方系统框架图](./framework/README.md#官方系统框架图)
 * [运行机制](./framework/README.md#运行机制)
-  * [handle机制时序图](./framework/README.md#handle机制时序图)
-  * [handle机制UML类图](./framework/README.md#handle机制UML类图)
+  * [handler机制时序图](./framework/README.md#handler机制时序图)
+  * [handler机制UML类图](./framework/README.md#handler机制UML类图)
 
 ## [应用框架相关](./application-framework/README.md)
 
