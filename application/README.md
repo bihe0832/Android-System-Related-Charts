@@ -10,6 +10,6 @@
 
 ## UI相关
 
-### View相关类的继承关系
+### View中widgets相关类的继承关系
 
-![View相关类的继承关系](./view-inherit.png)
+![View中widgets相关类的继承关系](./view-widgets-inherit.png)
