@@ -25,9 +25,9 @@
 ## [应用框架相关](./application-framework/README.md)
 
 * [四大组件](./application-framework/README.md#四大组件)
-  * [Activity的生命周期](./application-framework/README.md#Activity的生命周期) 
-  * [Activity间的数据交互](./application-framework/README.md#Activity间的数据交互) 
+  * [Activity的生命周期](./application-framework/README.md#activity的生命周期) 
+  * [Activity间的数据交互](./application-framework/README.md#activity间的数据交互) 
   * [service的生命周期](./application-framework/README.md#service的生命周期) 
 
 * [UI相关](./application-framework/README.md)
-  * [View中widgets相关类的继承关系](./application-framework/README.md#View中widgets相关类的继承关系)  
+  * [View中widgets相关类的继承关系](./application-framework/README.md#view中widgets相关类的继承关系)  
