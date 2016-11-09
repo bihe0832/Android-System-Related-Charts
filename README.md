@@ -31,3 +31,4 @@
 
 * [UI相关](./application-framework/README.md)
   * [View中widgets相关类的继承关系](./application-framework/README.md#view中widgets相关类的继承关系)  
+  * [Android事件分发机制](./application-framework/README.md#android事件分发机制)  

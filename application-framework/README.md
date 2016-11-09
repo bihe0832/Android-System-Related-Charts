@@ -8,6 +8,7 @@
   * [service的生命周期](#service的生命周期) 
 * [UI相关]()
   * [View中widgets相关类的继承关系](#view中widgets相关类的继承关系)  
+  * [Android事件分发机制](#android事件分发机制)  
   
 ## 四大组件
 
@@ -30,3 +31,7 @@
 ### View中widgets相关类的继承关系
 
 ![View中widgets相关类的继承关系](./view-widgets-inherit.png)
+
+### Android事件分发机制
+
+![Android事件分发机制](./ui-action-down-dispatch.jpg)
