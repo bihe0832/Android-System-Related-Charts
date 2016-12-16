@@ -5,6 +5,7 @@
 * [四大组件](#四大组件)
   * [Activity的生命周期](#activity的生命周期) 
   * [Activity间的数据交互](#activity间的数据交互) 
+  * [Fragment的声明周期](#fragment的声明周期) 
   * [service的生命周期](#service的生命周期) 
 * [UI相关]()
   * [View中widgets相关类的继承关系](#view中widgets相关类的继承关系)  
@@ -21,6 +22,12 @@
 ### Activity间的数据交互
 
 ![Activity间的数据交互](./activity-data-transfer.png)
+
+### Fragment的声明周期
+
+![Fragment的生命周期](./fragment-lifecycle.png)
+
+![Fragment与Activity的生命周期对比](./activity-fragment-lifecycle.png)
 
 ### service的生命周期
 

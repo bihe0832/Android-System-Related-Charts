@@ -27,6 +27,7 @@
 * [四大组件](./application-framework/README.md#四大组件)
   * [Activity的生命周期](./application-framework/README.md#activity的生命周期) 
   * [Activity间的数据交互](./application-framework/README.md#activity间的数据交互) 
+  * [Fragment的声明周期](#fragment的声明周期) 
   * [service的生命周期](./application-framework/README.md#service的生命周期) 
 
 * [UI相关](./application-framework/README.md)
