@@ -34,4 +34,4 @@
   * [View中widgets相关类的继承关系](./application-framework/README.md#view中widgets相关类的继承关系)  
   * [Android事件分发机制](./application-framework/README.md#android事件分发机制)  
   * [Android应用程序查找资源过程示意图](./application-framework/README.md#android应用程序查找资源过程示意图) 
-    * [AppCompat的主题示意图](./application-framework/README.md#AppCompat的主题示意图) 
+  * [AppCompat的主题示意图](./application-framework/README.md#AppCompat的主题示意图) 
