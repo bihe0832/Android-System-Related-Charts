@@ -11,6 +11,7 @@
   * [View中widgets相关类的继承关系](#view中widgets相关类的继承关系)  
   * [Android事件分发机制](#android事件分发机制)  
   * [Android应用程序查找资源过程示意图](#android应用程序查找资源过程示意图)  
+  * [AppCompat的主题示意图](#AppCompat的主题示意图)  
   
 ## 四大组件
 
@@ -47,3 +48,7 @@
 ### Android应用程序查找资源过程示意图
 
 ![Android应用程序查找资源过程示意图](./resources_find.jpg)
+
+### AppCompat的主题示意图
+
+![AppCompat的主题示意图](./AppCompat-theme.png)
