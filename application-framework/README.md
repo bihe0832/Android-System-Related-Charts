@@ -52,3 +52,7 @@
 ### AppCompat的主题示意图
 
 ![AppCompat的主题示意图](./AppCompat-theme.png)
+
+### View及MotionEvent坐标获取
+
+![View及MotionEvent坐标获取](./ui-location.png)
