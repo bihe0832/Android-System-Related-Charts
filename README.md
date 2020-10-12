@@ -11,6 +11,7 @@
   * [详细打包流程图](./apk/README.md#详细打包流程图)
   * [ant打包流程图](./apk/README.md#ant打包流程图)
   * [gradle打包简介](./apk/README.md#gradle打包简介)
+  * [gradle构建初始化](./apk/README.md##gradle构建初始化)
 * [安装卸载](./apk/README.md#安装卸载)
   * [apk安装过程](./apk/README.md#apk安装过程)
 
