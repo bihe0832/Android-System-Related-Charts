@@ -37,4 +37,5 @@
   * [Android应用程序查找资源过程示意图](./application-framework/README.md#android应用程序查找资源过程示意图) 
   * [AppCompat的主题示意图](./application-framework/README.md#AppCompat的主题示意图) 
   * [View及MotionEvent坐标获取](./application-framework/README.md#View及MotionEvent坐标获取) 
-
+* [输入法](./application-framework/README.md#输入法)
+	* [输入法生命周期](./application-framework/README.md#输入法生命周期) 

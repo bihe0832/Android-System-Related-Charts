@@ -12,6 +12,8 @@
   * [Android事件分发机制](#android事件分发机制)  
   * [Android应用程序查找资源过程示意图](#android应用程序查找资源过程示意图)  
   * [AppCompat的主题示意图](#AppCompat的主题示意图)  
+* [输入法]()
+  * [输入法生命周期](#输入法生命周期)  
   
 ## 四大组件
 
@@ -56,3 +58,7 @@
 ### View及MotionEvent坐标获取
 
 ![View及MotionEvent坐标获取](./ui-location.png)
+
+## 输入法
+
+![输入法生命周期](./input.jpg)
